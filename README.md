@@ -8,4 +8,7 @@
   recursion and backtracking in DSA which is very important Algo.
    
   And the project is simply designed by using HTML, CSS and JavaScript only
-  
+
+
+# Deployed 
+  Link: https://n-queens-puzzle-cyan.vercel.app/
